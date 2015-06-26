@@ -14,7 +14,7 @@ Spin off sub issues using hyphens.
 
 Example:
 
-[commit-log]()  
-[commit-log-storage]()
+[commit-log](https://github.com/asbjornenge/hyper-symposium/issues/1)  
+[commit-log-storage](https://github.com/asbjornenge/hyper-symposium/issues/2)
 
 enjoy.
